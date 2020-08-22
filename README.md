@@ -69,4 +69,5 @@ Use kebab-case to reference them in your templates:
 
   - https://www.npmjs.com/package/vue-qrcode-reader
   - https://gruhn.github.io/vue-qrcode-reader/demos/Upload.html
+  - https://www.the-qrcode-generator.com/
   
