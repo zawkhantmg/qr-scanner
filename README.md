@@ -65,5 +65,13 @@ Use kebab-case to reference them in your templates:
 
 
 ## Ref Link
-  - ````https://www.npmjs.com/package/vue-qrcode-reader````
+  ```bash
+  https://www.npmjs.com/package/vue-qrcode-reader
+  ```
+  ```bash
+  https://gruhn.github.io/vue-qrcode-reader/demos/Upload.html
+  ```
+  - ````
+  https://www.npmjs.com/package/vue-qrcode-reader
+  ````
   - ````https://gruhn.github.io/vue-qrcode-reader/demos/Upload.html````
