@@ -2,7 +2,8 @@
 
 ## Setup
   - Run nuxt project.
-  ````yarn run nuxt --port=8888````
+  - ````yarn run nuxt --port=8888````
+
 
 ## Installation :package:
 
@@ -61,6 +62,7 @@ Use kebab-case to reference them in your templates:
 <qrcode-drop-zone></qrcode-drop-zone>
 <qrcode-capture></qrcode-capture>
 ```
+
 
 ## Ref Link
   - ````https://www.npmjs.com/package/vue-qrcode-reader````
