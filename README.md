@@ -1,9 +1,9 @@
 # QR-SCANNER
 
 ## Setup
-  - Run nuxt project.
-    - ````yarn install````
-    - ````yarn run nuxt --port=8888````
+
+   - ````yarn install````
+   - ````yarn run nuxt --port=8888````
 
 
 ## Installation :package:
