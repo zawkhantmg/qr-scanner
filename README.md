@@ -67,7 +67,7 @@ Use kebab-case to reference them in your templates:
 
 ## Get QR-Code
 
-  - https://www.the-qrcode-generator.com/
+  - https://www.the-qrcode-generator.com
 
 
 ## Ref Link
