@@ -8,7 +8,7 @@
       <div>
         <nuxt-link to="qr-capture" class="btn button--green">qr-capture</nuxt-link>
         <nuxt-link to="qr-dropzone" class="btn button--green">qr-dropzone</nuxt-link>
-        <!-- <nuxt-link to="qr-capture" class="btn button--green">qr-dropzone</nuxt-link> -->
+        <nuxt-link to="varcode-generator" class="btn button--green">varcode-generator</nuxt-link>
       </div>
     </div>
   </div>
